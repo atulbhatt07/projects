@@ -1,3 +1,3 @@
 # Title 
 
-This is my new file in git .
+This is my new project in GitHub .
